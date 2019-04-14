@@ -1,10 +1,5 @@
-README.md
+This repo contains *preliminary* analysis of UCOP financials, with a focus on UC Berkeley's College of Natural Resources.
 
-Header desription:
-* campus 
-* unit
-* category: category within the unit
-* subcat: indicates how to find total unit expenditures.  Sum all "0" entries for a given unit to get that unit's total.
-* year
+Please use analysis.ipynb to see the analysis.
 
 
